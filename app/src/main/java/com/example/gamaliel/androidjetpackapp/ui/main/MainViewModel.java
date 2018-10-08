@@ -6,4 +6,5 @@ public class MainViewModel extends ViewModel {
     // TODO: Implement the ViewModel
 
     //testing out a merge
+    //anotherTest
 }
