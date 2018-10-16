@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Jetpack App</string>
+    <string name="app_start">MainFragment</string>
+    <string name="button">Red</string>
 </resources>
