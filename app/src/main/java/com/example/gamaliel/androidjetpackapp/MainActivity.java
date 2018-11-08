@@ -7,6 +7,7 @@ import com.example.gamaliel.androidjetpackapp.ui.main.MainFragment;
 
 public class MainActivity extends AppCompatActivity {
 
+    //this comment is a test.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
